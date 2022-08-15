@@ -1,0 +1,4 @@
+CSI100,Intro to Computer Science,,,,
+CSI200,Intro to Software Development Lifecycle,CSI100,CSI050
+CSI300,Data Structures and Algorithms,CSI200,,
+CSI400,Intro To Pets,CSI200
